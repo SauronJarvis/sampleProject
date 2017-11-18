@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Class one" duration-ms="40" started-at="2017-11-18T05:34:34Z" finished-at="2017-11-18T05:34:34Z">
+    <groups>
+    </groups>
+    <test name="testClassOne" duration-ms="40" started-at="2017-11-18T05:34:34Z" finished-at="2017-11-18T05:34:34Z">
+      <class name="com.testPack.one.TestClassOne">
+        <test-method status="PASS" signature="atBeofreClassOne()[pri:0, instance:com.testPack.one.TestClassOne@6a024a67]" name="atBeofreClassOne" is-config="true" duration-ms="9" started-at="2017-11-18T11:04:34Z" finished-at="2017-11-18T11:04:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atBeofreClassOne -->
+        <test-method status="PASS" signature="atTestOne()[pri:0, instance:com.testPack.one.TestClassOne@6a024a67]" name="atTestOne" duration-ms="4" started-at="2017-11-18T11:04:34Z" finished-at="2017-11-18T11:04:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atTestOne -->
+        <test-method status="PASS" signature="atBeofreMethodOne()[pri:0, instance:com.testPack.one.TestClassOne@6a024a67]" name="atBeofreMethodOne" is-config="true" duration-ms="0" started-at="2017-11-18T11:04:34Z" finished-at="2017-11-18T11:04:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atBeofreMethodOne -->
+        <test-method status="PASS" signature="atAfterMethodOne()[pri:0, instance:com.testPack.one.TestClassOne@6a024a67]" name="atAfterMethodOne" is-config="true" duration-ms="0" started-at="2017-11-18T11:04:34Z" finished-at="2017-11-18T11:04:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atAfterMethodOne -->
+        <test-method status="PASS" signature="atBeofreMethodOne()[pri:0, instance:com.testPack.one.TestClassOne@6a024a67]" name="atBeofreMethodOne" is-config="true" duration-ms="1" started-at="2017-11-18T11:04:34Z" finished-at="2017-11-18T11:04:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atBeofreMethodOne -->
+        <test-method status="PASS" signature="atTestTwo()[pri:0, instance:com.testPack.one.TestClassOne@6a024a67]" name="atTestTwo" duration-ms="1" started-at="2017-11-18T11:04:34Z" finished-at="2017-11-18T11:04:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atTestTwo -->
+        <test-method status="PASS" signature="atAfterClassOne()[pri:0, instance:com.testPack.one.TestClassOne@6a024a67]" name="atAfterClassOne" is-config="true" duration-ms="0" started-at="2017-11-18T11:04:34Z" finished-at="2017-11-18T11:04:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atAfterClassOne -->
+        <test-method status="PASS" signature="atAfterMethodOne()[pri:0, instance:com.testPack.one.TestClassOne@6a024a67]" name="atAfterMethodOne" is-config="true" duration-ms="0" started-at="2017-11-18T11:04:34Z" finished-at="2017-11-18T11:04:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atAfterMethodOne -->
+      </class> <!-- com.testPack.one.TestClassOne -->
+    </test> <!-- testClassOne -->
+  </suite> <!-- Test Class one -->
+</testng-results>
